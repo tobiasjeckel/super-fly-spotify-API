@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="styles.css">
+        <title>Spotify</title>
+    </head>
+    <body>
+        <header>
+            <img src="https://developer.spotify.com/assets/branding-guidelines/icon3@2x.png">
+            <h1>Spotify Search<h1>
+        </header>
+        <main>
+            <div id="enter">
+                <input type="text" name="user-input" value="">
+                <select>
+                    <option id="artist" value="artist">Artist</option>
+                    <option id="album" value="album">Album</option>
+                </select>
+                <button id="submit-button" value="submit">Submit</button>
+            </div>
+            <div id="userMessage"></div>
+            <div id="results-container">
+            </div>
+            <div id="more">MORE</div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+            <script src="script.js" charset="utf-8"></script>
+        </main>
+    </body>
+</html>
