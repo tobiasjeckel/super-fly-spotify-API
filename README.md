@@ -1,6 +1,6 @@
 # Spotify Search API
 
-![Spotify Search API](https://tobiasjeckel.github.io/super-fly-spotify-API/) is a small simple page to search for albums or artists on Spotify.
+[Spotify Search API](https://tobiasjeckel.github.io/super-fly-spotify-API/?scroll=infinite) is a small simple page to search for albums or artists on Spotify.
 
 ## Main learning goals of the project
 
